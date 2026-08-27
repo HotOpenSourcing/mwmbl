@@ -120,7 +120,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -214,3 +213,5 @@ devdata/judgments_export/
 devdata/judge_train/*
 !devdata/judge_train/RESULTS.md
 !devdata/judge_train/eval_manifest.json
+config.bat
+node_modules
